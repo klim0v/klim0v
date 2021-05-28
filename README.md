@@ -1,5 +1,6 @@
 # Hi there 👋
-## Here you will find some information about me
+
+I have been specializing in API design and service-oriented architecture for over 3 years. In recent years, I have been developing **blockchain** platforms. I also teach a course on Golang, speak at professional conferences, and publish technical articles to support the development of our community.
 
 <!--
 **klim0v/klim0v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
