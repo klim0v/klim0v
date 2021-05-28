@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🔭 Experience
+### 🔬 Experience
 
 _September 2019 — currently_
 
@@ -95,7 +95,7 @@ Website development
 
 ---
 
-### 🌱 Education / Training
+### 📚 Education / Training
 
 - 2020, [Golang Course Teacher, Netology](https://netology.ru/programs/godeveloper)
 - 2020, [The Process Communication Model](https://www.processcommunication.com/)
@@ -104,21 +104,22 @@ Website development
 
 ---
 
-### 💬 Blogs
+### 📝 Blogs
 
 - [Medium](https://medium.com/@klim0v)
 - [Habr](https://habr.com/ru/users/klim0v/)
 
 ---
 
-### 👯 Conferences
+### 👨‍🏫 Performance
 
+- 2021, [Teaching Golang (Netology)](https://youtu.be/wTbH3FpxI0o)
 - 2020, [GolangConf (Ontico)](https://golangconf.ru/2020/abstracts/6761)
 - 2019, [Minter Demo Day](https://youtu.be/7bZREmkcpiY)
 
 ---
 
-### 📫 How to reach me:
+### 📇 How to reach me:
 
 - [Telegram](https://t.me/klim0v)
 - [E-mail](mailto:klim0v-sergey@yandex.ru)
