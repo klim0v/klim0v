@@ -35,7 +35,7 @@ Own blockchain on the Tendermint engine
 
 **Core Blockchain Developer**
 
-**_Skills_**: _GO, [Tendermint](https://github.com/tendermint/tm-db/blob/v0.6.3/CHANGELOG.md#changelog), [Merkleized IAVL](https://github.com/cosmos/iavl/blob/v0.14.3/CHANGELOG.md#0143-november-23-2020), [minter-blockchain-core](https://github.com/MinterTeam/minter-go-node), gRPC, [grpc-gateway](https://github.com/MinterTeam/node-grpc-gateway), [minter-SDK](https://pkg.go.dev/mod/github.com/MinterTeam/minter-go-sdk), Kubernetes, NATS, Helm, Jira._
+**_Skills_**: _GO, [Tendermint](https://github.com/tendermint/tm-db/blob/v0.6.3/CHANGELOG.md#changelog), [Merkleized IAVL](https://github.com/cosmos/iavl/blob/v0.14.3/CHANGELOG.md#0143-november-23-2020), [minter-blockchain-core](https://github.com/MinterTeam/minter-go-node), gRPC, [grpc-gateway](https://github.com/MinterTeam/node-grpc-gateway), [minter-SDK](https://pkg.go.dev/mod/github.com/MinterTeam/minter-go-sdk/v2), Kubernetes, NATS, Helm, Jira._
 
 ---
 
