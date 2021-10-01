@@ -2,7 +2,8 @@
 
 ## Senior Golang Developer (Blockchain)
 
-I have been specializing in API design and service-oriented architecture for over 3 years. In recent years, I have been developing **blockchain** platforms. I also [teach a course](#-education--training) on Golang, speak at professional [conferences](#-performance), and publish technical [articles](#-blogs) to support the development of our community.
+I have been specializing in API design and service-oriented architecture for over 3 years. In recent years, I have been developing **blockchain** platforms. I also [teach a course](#-education--training) on Golang, speak at professional [conferences](#-performance), and publish technical [articles](#-blogs) to support the development of our community, and frequently contribute to open-source projects.
+
 
 <!--
 **klim0v/klim0v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
