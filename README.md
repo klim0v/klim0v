@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Senior Golang Developer (Blockchain)
+## Lead Golang Blockchain Core Developer
 
 I have been specializing in API design and service-oriented architecture for over 4 years. Since 2019, I have been developing blockchain platforms. Golang evangelist. I also teach [course](#-education--training), speak at professional [conferences](#-performance), publish [articles](#-blogs), and contribute to open-source projects.
 
@@ -33,7 +33,7 @@ _September 2019 — currently_
 
 Own blockchain on the Tendermint engine
 
-**Core Blockchain Developer**
+**Lead Golang Blockchain Core Developer**
 
 **_Skills_**: _GO, [Tendermint](https://github.com/tendermint/tm-db/blob/v0.6.3/CHANGELOG.md#changelog), [Merkleized IAVL](https://github.com/cosmos/iavl/blob/v0.14.3/CHANGELOG.md#0143-november-23-2020), [minter-blockchain-core](https://github.com/MinterTeam/minter-go-node), gRPC, [grpc-gateway](https://github.com/MinterTeam/node-grpc-gateway), [minter-SDK](https://pkg.go.dev/mod/github.com/MinterTeam/minter-go-sdk/v2), Kubernetes, Jira._
 
