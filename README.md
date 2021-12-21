@@ -39,7 +39,7 @@ Own blockchain on the Tendermint engine
 
 - Development of [SDK](https://github.com/MinterTeam/minter-go-sdk) for Minter blockchain 
 - Development of the [Core](https://github.com/MinterTeam/minter-go-node) Minter blockchain 
-- Bug fixes in the [tendermint](https://github.com/tendermint/tm-db/pull/134) and (cosmos](https://github.com/cosmos/iavl/pull/324) engine
+- Bug fixes in the [tendermint](https://github.com/tendermint/tm-db/pull/134) and [cosmos](https://github.com/cosmos/iavl/pull/324) engine
 - Overview of blockchain innovations at conferences https://www.youtube.com/watch?v=hUx6rZLD_ok https://www.youtube.com/watch?v=7bZREmkcpiY
 
 ---
