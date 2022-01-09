@@ -120,8 +120,8 @@ Website development
 
 ### 📚 Education / Training
 
-- 2020, [Golang Course Teacher, Netology](https://netology.ru/programs/godeveloper)
-- 2020, [The Process Communication Model](https://www.processcommunication.com/)
+- 2020, [Golang Course Teacher, Netology](https://youtu.be/wTbH3FpxI0o)
+- 2020, [The Process Communication Model](https://github.com/klim0v/klim0v.github.io/raw/master/pdf/K2MPROF-340578.pdf)
 - 2017, [Vladimir State University](https://www.vlsu.ru/), [Applied Mathematics and Computer Science, Applied Mathematics and Computer Science](http://fpmf.vlsu.ru/)
 - 2013, Vladimir, school No. 36, class with a physical and mathematical bias
 
