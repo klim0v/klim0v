@@ -21,13 +21,6 @@ Here are some ideas to get you started:
 
 ### 🔬 Experience
 
-## Portfolio
-
-[comment]: <> (_[Download CV]&#40;/pdf/sample_presentation.pdf&#41;_)
-
----
-
-### Experience
 
 _November 2022 — currently_
 
