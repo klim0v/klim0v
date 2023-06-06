@@ -152,7 +152,7 @@ Website development
 ### 👨‍🏫 Performance
 
 - 2021, [Teaching Golang (Netology)](https://youtu.be/wTbH3FpxI0o)
-- 2020, [GolangConf (Ontico)](https://golangconf.ru/2020/abstracts/6761)
+- 2020, [GolangConf](https://www.youtube.com/watch?v=Q9x1FVPDGu4) [Ontico](https://golangconf.ru/2020/abstracts/6761)
 - 2019, [Minter Demo Day](https://youtu.be/7bZREmkcpiY)
 
 ---
