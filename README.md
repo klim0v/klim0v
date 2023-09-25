@@ -159,13 +159,8 @@ Website development
 
 ### 📇 How to reach me:
 
-- [Telegram](https://t.me/klim0v)
+- [Telegram](https://t.me/klmff)
 - [E-mail](mailto:klim0v-sergey@yandex.ru)
-- [My Circle](https://career.habr.com/klim0v)
-- [VK](https://vk.com/klim0v)
-- [Facebook](https://www.facebook.com/klim0vsergey)
-- [LinkedIn](https://www.linkedin.com/in/klim0v/)
-- [Instagram](https://www.instagram.com/klim0vsergey/)
 - [Twitter](https://twitter.com/klim0vSergey)
 
 ---
