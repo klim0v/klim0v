@@ -160,7 +160,7 @@ Website development
 ### 📇 How to reach me:
 
 - [Telegram](https://t.me/klmff)
-- [E-mail](mailto:klim0v-sergey@yandex.ru)
+- [E-mail](mailto:crazyuser704@gmail.com)
 - [Twitter](https://twitter.com/klim0vSergey)
 
 ---
