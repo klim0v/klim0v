@@ -181,7 +181,7 @@ Website development
 
 - [Telegram](https://t.me/klmff)
 - [E-mail](mailto:crazyuser704@gmail.com)
-- [Twitter](https://twitter.com/klim0vSergey)
+- [X.com](https://x.com/0xklmff)
 
 ---
 
