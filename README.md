@@ -182,7 +182,7 @@ Website development
 - [Telegram](https://t.me/klmff)
 - [E-mail](mailto:crazyuser704@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/klim0v/)
-- [X.com](https://x.com/0xklmff)
+- [X.com](https://x.com/0xGoDev)
 
 ---
 
