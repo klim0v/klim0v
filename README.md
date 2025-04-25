@@ -27,7 +27,7 @@ _December 2024 — currently_
 
 [NuConstruct](https://nuconstruct.xyz/), Remote, UK
 
-Leading MEV team on Ethereum, operating since 2020
+NuConstruct is leading MEV team on Ethereum, operating since 2020
 
 **Blockchain Engineer (Ethereum)**
 
@@ -48,7 +48,7 @@ _November 2022 — December 2024_
 
 [ANKR](https://www.ankr.com/), Remote, United States
 
-Decentralized Infrastructure to Build and Earn in Web3
+Ankr is an all-in-one Web3 development hub that provides a full suite of tools for any organization to build new decentralized apps and power them with high-performance connections to 45+ blockchains.
 
 **Blockchain Engineer (Backend)**
 
@@ -110,11 +110,6 @@ Development of systems and business applications
 - Integration with third-party services
 - Gitlab webhook application deployment service
 - Buffalo, revel golang's frameworks
-- Development was carried out for: 
-  - https://vebeng.ru/en/
-  - https://www.deworkacy.ru/
-  - http://novacoin.org/ 
-  - other companies...
 
 
 ---
