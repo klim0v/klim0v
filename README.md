@@ -56,7 +56,7 @@ Ankr is an all-in-one Web3 development hub that provides a full suite of tools f
 
 ---
 
-_September 2019 — november 2022_
+_September 2019 — November 2022_
 
 ![Minter](https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/minter-logo.png)
 
@@ -77,7 +77,7 @@ Own blockchain on the Tendermint engine
 
 ---
 
-_November 2018 — september 2019_
+_November 2018 — September 2019_
 
 ![Dr.Cash](https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/dr-cash-logo.png)
 
@@ -91,7 +91,7 @@ CPA network for working with Nutra vertical all over the world
 
 ---
 
-_July 2018 — november 2018_
+_July 2018 — November 2018_
 
 ![Wormsoft](https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/wormsoft-logo.png)
 
@@ -114,7 +114,7 @@ Development of systems and business applications
 
 ---
 
-_October 2017 — june 2018_
+_October 2017 — June 2018_
 
 ![Vitbiomed](https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/vitbiomed-logo.png)
 
@@ -129,7 +129,7 @@ _October 2017 — june 2018_
 
 ---
 
-_December 2016 — september 2017_
+_December 2016 — September 2017_
 
 ![Darvin Studio](https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/darvin-studio-logo.png)
 
