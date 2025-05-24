@@ -29,7 +29,7 @@ _December 2024 — currently_
 
 NuConstruct is leading MEV team on Ethereum, operating since 2020
 
-**Blockchain Engineer (Ethereum)**
+**Lead Blockchain Engineer (Ethereum)**
 
 **_Skills_**: _Go, [geth](https://github.com/ethereum/go-ethereum), flashbots, MEV, [TEE](https://collective.flashbots.net/t/searching-in-tdx/3902)_
 
@@ -52,7 +52,7 @@ Ankr is an all-in-one Web3 development hub that provides a full suite of tools f
 
 **Blockchain Engineer (Backend)**
 
-**_Skills_**: _Go, Postgres, Kafka, Redis, Clickhouse, Cloudflare Workers_
+**_Skills_**: _Go, Postgres, Kafka, Redis, Clickhouse, Ethereum, Cloudflare Workers_
 
 ---
 
