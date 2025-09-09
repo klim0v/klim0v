@@ -31,7 +31,7 @@ NuConstruct is leading MEV team on Ethereum, operating since 2020
 
 **Lead Blockchain Engineer (Ethereum)**
 
-**_Skills_**: _Go, [Ethereum](https://github.com/ethereum/go-ethereum), [mev-boost-relay](https://github.com/flashbots/mev-boost-relay), [TEE](https://collective.flashbots.net/t/searching-in-tdx/3902)_
+**_Skills_**: _Go, [Ethereum](https://github.com/ethereum/go-ethereum), [BeaconChain](https://github.com/OffchainLabs/prysm/pull/15548), [mev-boost-relay](https://github.com/flashbots/mev-boost-relay), [TEE](https://collective.flashbots.net/t/searching-in-tdx/3902)_
 
 We are building TOOL (Trustless Orderflow Operations Layer), which offers revolutionary features for Ethereum transaction processing:
 * Division of 12-second Ethereum slots into 1-second sub-slots
