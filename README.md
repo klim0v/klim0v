@@ -31,7 +31,7 @@ NuConstruct is leading MEV team on Ethereum, operating since 2020
 
 **Lead Blockchain Engineer (Ethereum)**
 
-**_Skills_**: _Go, [Ethereum](https://github.com/ethereum/go-ethereum), [BeaconChain](https://github.com/OffchainLabs/prysm/pull/15548), [mev-boost-relay](https://github.com/flashbots/mev-boost-relay), [TEE](https://collective.flashbots.net/t/searching-in-tdx/3902)_
+**_Skills_**: _Go, [Ethereum](https://github.com/ethereum/go-ethereum), [BeaconChain](https://github.com/OffchainLabs/prysm/pull/15548), [mev-boost-relay]([https://github.com/flashbots/mev-boost-relay](https://github.com/flashbots/mev-boost/pull/855)), [TEE](https://collective.flashbots.net/t/searching-in-tdx/3902)_
 
 The TOOL Node (Trustless Orderflow Operations Layer) is a next-generation Ethereum block building protocol that introduces 1-second sub-slots within Ethereum’s standard 12-second block time, enabling pre-confirmation of transaction execution before blocks are finalized. The protocol addresses the centralisation concerns of traditional MEV-Boost infrastructure by replacing monolithic block builders with a distributed network of nodes that collaboratively assemble blocks.
 
