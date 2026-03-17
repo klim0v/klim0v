@@ -57,7 +57,7 @@ _September 2019 — November 2022_
 
 ![Minter](https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/minter-logo.png)
 
-[Minter](https://www.minter.network/), London, UK
+[Minter](https://www.minter.network/), Remote, UK
 
 [Github Profile](https://github.com/MinterTeam)
 
