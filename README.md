@@ -1,182 +1,129 @@
-# Golang Blockchain Engineer
+# Sergei Klimov - Senior / Lead Go Blockchain Engineer
 
-I have been specializing in API design and service-oriented architecture for over 4 years. Since 2019, I have been developing blockchain platforms. Golang evangelist. I also teach [course](#-education--training), speak at professional [conferences](#-performance), publish [articles](#-blogs), and contribute to open-source projects.
+**Rio de Janeiro, Brazil, UTC-03:00**
 
-<!--
-**klim0v/klim0v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[GitHub](https://github.com/klim0v) ·
+[LinkedIn](https://www.linkedin.com/in/klim0v/) ·
+[Telegram](https://t.me/klmff) ·
+[X](https://x.com/0xGoDev) ·
+[crazyuser704@gmail.com](mailto:crazyuser704@gmail.com)
 
 ---
 
-### 🔬 Experience
+## Profile
 
-_December 2024 — currently_
+Go backend and protocol engineer — **8+ years** in service-oriented architecture, **6+ years** building blockchain infrastructure. Currently Lead Blockchain Engineer at **[NuConstruct](https://nuconstruct.xyz/)** on **TOOL Node**, a [go-ethereum](https://github.com/ethereum/go-ethereum) fork implementing TEE-attested distributed block building with 1-second sub-slots inside the 12-second Ethereum slot. Author of **[EVAA's official Go SDK](https://github.com/evaafi/evaa-go-sdk)**, former Lead Core Developer of the [Minter](https://www.minter.network/) L1, and upstream contributor to **Prysm**, **MEV-Boost**, **Cosmos IAVL**, **Tendermint tm-db**, and **btcsuite**.
 
-<img alt="NuConstruct" src="https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/nuconstruct.svg" width="125" height="36">
-
-[NuConstruct](https://nuconstruct.xyz/), Remote, UK
-
-NuConstruct is leading MEV team on Ethereum, operating since 2020
-
-**Lead Blockchain Engineer (Ethereum)**
-
-**_Skills_**: _Go, [Ethereum](https://github.com/ethereum/go-ethereum), [Beacon Chain](https://github.com/OffchainLabs/prysm/pull/15548), [MEV boost relay](https://github.com/flashbots/mev-boost/pull/855), [Trusted Execution Environment](https://blog.ata.network/verifiable-private-and-decentralized-orderflow-processing-with-automata-linux-and-tool-daf0c345e73c)_
-
-The TOOL Node (Trustless Orderflow Operations Layer) is a next-generation Ethereum block building protocol that introduces 1-second sub-slots within Ethereum’s standard 12-second block time, enabling pre-confirmation of transaction execution before blocks are finalized. The protocol addresses the centralisation concerns of traditional MEV-Boost infrastructure by replacing monolithic block builders with a distributed network of nodes that collaboratively assemble blocks.
-
-The implementation is built as an extensive fork of go-ethereum. The architecture introduces two primary subsystems: the tool/ package containing the core orchestration logic (pool management, execution engine, and blockchain wrapper), and the relay/ package providing coordination between nodes and external systems.
+**Open to:** Senior / Lead Go roles — IC or tech lead — at MEV / orderflow teams, L1 / L2 protocols, RPC and indexing infrastructure, on-chain trading desks.
 
 ---
 
-_November 2022 — December 2024_
+## Core Skills
 
-![ANKR](https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/ankr-logo.png)
+**Languages.** Go (primary, 7+ yrs), FunC, Tact, Solidity (read), SQL.
 
-[ANKR](https://www.ankr.com/), Remote, United States
+**Ethereum.** go-ethereum (extensive forking), Prysm consensus client, MEV-Boost, builder / relay APIs, Engine API, Intel TDX / SGX, attested TLS, Automata Linux verifiable execution.
 
-Ankr is an all-in-one Web3 development hub that provides a full suite of tools for any organization to build new decentralized apps and power them with high-performance connections to 45+ blockchains.
+**Cosmos / Tendermint.** Tendermint Core, Cosmos SDK, ABCI, IAVL+, tm-db, DPoS, in-core AMM with order book, RLP.
 
-**Blockchain Engineer (Backend)**
+**TON.** Custom FunC highload-wallet contracts, TVM gas optimisation, jetton / NFT standards, ADNL / DHT / Overlay networking, lite-server pool management, tonutils-go, [`evaa-go-sdk`](https://github.com/evaafi/evaa-go-sdk).
 
-**_Skills_**: _Go, Postgres, Kafka, Redis, Clickhouse, Ethereum, Cloudflare Workers_
-
----
-
-_September 2019 — November 2022_
-
-![Minter](https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/minter-logo.png)
-
-[Minter](https://www.minter.network/), Remote, UK
-
-[Github Profile](https://github.com/MinterTeam)
-
-Own blockchain on the Tendermint engine
-
-**Lead Golang Blockchain Core Developer**
-
-**_Skills_**: _GO, [Tendermint](https://github.com/tendermint/tm-db/blob/v0.6.3/CHANGELOG.md#changelog), [Merkleized IAVL](https://github.com/cosmos/iavl/blob/v0.14.3/CHANGELOG.md#0143-november-23-2020), [minter-blockchain-core](https://github.com/MinterTeam/minter-go-node), gRPC, [grpc-gateway](https://github.com/MinterTeam/node-grpc-gateway), [minter-SDK](https://pkg.go.dev/mod/github.com/MinterTeam/minter-go-sdk/v2), Kubernetes, Jira._
-
-- Development of [SDK](https://github.com/MinterTeam/minter-go-sdk) for Minter blockchain 
-- Development of the [Core](https://github.com/MinterTeam/minter-go-node) Minter blockchain 
-- Bug fixes in the [tendermint](https://github.com/tendermint/tm-db/pull/134) and [cosmos](https://github.com/cosmos/iavl/pull/324) engine
-- Overview of blockchain innovations at conferences https://www.youtube.com/watch?v=hUx6rZLD_ok https://www.youtube.com/watch?v=7bZREmkcpiY
+**Infrastructure.** gRPC, grpc-gateway, Protobuf, PostgreSQL, ClickHouse, Kafka, Redis, Kubernetes, Grafana / Prometheus.
 
 ---
 
-_November 2018 — September 2019_
+## Experience
 
-![Dr.Cash](https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/dr-cash-logo.png)
+### NuConstruct — Lead Blockchain Engineer (Ethereum)
+*December 2024 – present · Remote (UK) · [nuconstruct.xyz](https://nuconstruct.xyz/)*
 
-[Dr.Cash](https://dr.cash/), Moscow
+Building **TOOL** (Trustless Orderflow Operations Layer) — a P2P, TEE-attested block-building protocol that replaces monolithic MEV-Boost builders with a distributed network of operators, introduces 1-second sub-slots inside the 12-second Ethereum slot, and provides pre-confirmation of execution before finalisation.
 
-CPA network for working with Nutra vertical all over the world
+- **Lead engineer on the [go-ethereum](https://github.com/ethereum/go-ethereum) fork.** Designed the `tool/` package (pool, execution engine, blockchain wrapper) driving the sub-slot lifecycle, and the `relay/` package coordinating nodes and external systems.
+- Built the **orderflow ingress, intermediate-state publication, and dynamic transaction-addition** mechanics enabling searchers and dApps to receive inclusion feedback every sub-slot.
+- Drove the **[Automata Linux](https://blog.ata.network/verifiable-private-and-decentralized-orderflow-processing-with-automata-linux-and-tool-daf0c345e73c)** integration for verifiable execution — container / binary / config attestation, attested TLS on the TEE port, on-chain anchoring of attestations.
 
-**Golang Backend Developer**
+**Upstream contributions (Ethereum core infrastructure):**
 
-**_Skills_**: _GO, gRPC, protobuf, NATS, [swagger-go](https://github.com/go-swagger/go-swagger), jwt, OpenAPI, multithreading, gin, postman, sentry, redis, apm-elastic, Microservices, Clean Architecture, ClickHouse, PostgresQL, Kubernetes, Helm, Jira._
-
----
-
-_July 2018 — November 2018_
-
-![Wormsoft](https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/wormsoft-logo.png)
-
-[Wormsoft](https://wormsoft.ru/), Moscow
-
-Development of systems and business applications
-
-**Golang/PHP Backend Developer**
-
-**_Skills_**: _PHP, GO, Yii2, REST API, Docker, docker-compose, swagger-ui, MySQL, gitlab, Design patterns._
-
-- Development of modules for Yii2 for information processing
-- Development of services on GoLang
-- Database structure design
-- Designing API Services
-- Integration with third-party services
-- Gitlab webhook application deployment service
-- Buffalo, revel golang's frameworks
-
+- [`flashbots/mev-boost` #855](https://github.com/flashbots/mev-boost/pull/855) — race fix in `getPayload` version negotiation across relays (could cause a missed slot).
+- [`OffchainLabs/prysm` #15871](https://github.com/OffchainLabs/prysm/pull/15871) — epoch-transition flag on head events when the first slot of an epoch is missed or reorged. *"h/t to the NuConstruct team for reporting this."*
+- [`OffchainLabs/prysm` #15548](https://github.com/OffchainLabs/prysm/pull/15548) — `validateConsensus` post-state-root lookup fix. *"Reported by NuConstruct."*
+- [`OffchainLabs/prysm` #15541](https://github.com/OffchainLabs/prysm/pull/15541) — payload-attribute event firing on early blocks (event feed alignment with payload-id cache).
 
 ---
 
-_October 2017 — June 2018_
+### EVAA Protocol — Lending Protocol Liquidator & Official Go SDK Author (TON)
+*April 2024 – March 2025 · Remote · [evaa.finance](https://evaa.finance/)*
 
-![Vitbiomed](https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/vitbiomed-logo.png)
+Designed EVAA's official Go SDK and built an end-to-end production liquidator on top of it. Held a leading position on EVAA mainnet for an extended period against active competitors.
 
-[Vitbiomed](http://vitbiomed.ru/), Moscow
-
-**Fullstack  Developer**
-
-**_Skills_**: _PHP, Laravel, MySQL, Testing, JQuery, Docker, docker-compose, git, Design patterns._
-
-- Migration of the main site from Bitrix to Laravel
-
-
----
-
-_December 2016 — September 2017_
-
-![Darvin Studio](https://raw.githubusercontent.com/klim0v/klim0v.github.io/master/images/darvin-studio-logo.png)
-
-[Darvin Studio](https://www.darvin-studio.ru/) / [Be on TOP](https://www.beontop.ae/), Vladimir
-
-[Github Profile](https://github.com/DarvinStudio)
-
-Website development
-
-**Fullstack JavaScript/PHP Developer**
-
-**_Skills_**: _PHP, Symfony, DDD, MySQL, JQuery, git._
-
-- The creation and development of blogs and online stores on the self-written [CMS](https://github.com/DarvinStudio) on PHP Symfony 
-
+- **Authored [`evaafi/evaa-go-sdk`](https://github.com/evaafi/evaa-go-sdk)** — the protocol's official Go integration layer, published under the EVAA organisation and listed on [pkg.go.dev](https://pkg.go.dev/github.com/evaafi/evaa-go-sdk). Five packages: `config` (Main / LP / Testnet pool selection), `asset`, `price` (oracle prices and packaging), `principal` (health factor, predictions, liquidatability checks), `transaction` (supply / withdrawal / liquidation).
+- **Production liquidator bot (Go).** Real-time indexer over the EVAA master via TonAPI + a redundant pool of public / private lite-clients; **multi-source price aggregation** (EVAA middleware + ICP) with per-asset medians across 4 oracles and continuous pump / dump scenario simulation to rank candidates.
+- **Custom FunC highload-wallet contracts (V2 / V3 / V4)** with a 180-second message TTL and an in-payload `uniq` / "mining" field exploiting TVM message-hash ordering to gain priority during contention.
+- **Multi-RPC broadcast layer** — every external message fan-outs in parallel to TonAPI + 9 independent providers (TonCenter, TonHub, EVAA RPC, GetBlock, RockX, Orbs, Ankr, Chainstack, QuickNode) to minimise inclusion latency.
+- **DEX integration** for collateral disposal via [swap.coffee](https://swap.coffee/) across DeDust, STON.fi v1 / v2, TONCO, with TLB validation of every constructed swap; tsTON unstaking via the staker SC.
+- Adapted the bot through the v2 protocol upgrade (one-shot bad-debt liquidation, custom-payload chaining into DeDust). *"His programming skills in Go and deep blockchain understanding helped him be the leading liquidator for a long time."* — public recommendation from a competitor.
 
 ---
 
-### 📚 Education / Training
+### Ankr — Blockchain Engineer (Backend)
+*November 2022 – December 2024 · Remote (United States) · [ankr.com](https://www.ankr.com/)*
 
-- 2020, [Golang Course Teacher, Netology](https://youtu.be/wTbH3FpxI0o)
-- 2020, The Process Communication Model
-- 2017, [Vladimir State University](https://www.vlsu.ru/), [Institute of Applied Mathematics, physics and computer science](http://ipmfi.vlsu.ru/)
-- 2013, Vladimir, school No. 36, class with a physical and mathematical bias
+Multi-chain Web3 API platform (45+ blockchains). Built Go backend services across **payments**, **user-manager**, **statistics**, and **accounting**.
 
----
-
-### 📝 Blogs
-
-- [Medium](https://medium.com/@klim0v)
-- [Habr](https://habr.com/ru/users/klim0v/)
+- Implemented the **Premium plan billing** surface — per-API-credit Pay-as-You-Go and the recurring "Deal" subscription; **Stripe** (one-time and recurring) plus parallel on-chain USDT / USDC payment flows.
+- Owned the **user-manager** domain — JWT-scoped private endpoints (`rpc.ankr.com/<chain>/<JWT>`), Projects, Team Accounts with RBAC, identity via MetaMask / Google / GitHub.
+- Built the **usage-statistics pipeline** powering per-project request, latency, and cost dashboards — Kafka ingest, ClickHouse aggregation, PostgreSQL state, Redis hot paths, Grafana / Prometheus.
 
 ---
 
-### 👨‍🏫 Performance
+### Minter Network — Lead Golang Blockchain Core Developer
+*September 2019 – November 2022 · Remote (UK) · [github.com/MinterTeam](https://github.com/MinterTeam)*
 
-- 2021, [Teaching Golang (Netology)](https://youtu.be/wTbH3FpxI0o)
-- 2020, [GolangConf](https://www.youtube.com/watch?v=Q9x1FVPDGu4) [Ontico](https://golangconf.ru/2020/abstracts/6761)
-- 2019, [Minter Demo Day](https://youtu.be/7bZREmkcpiY)
+L1 DeFi blockchain on Tendermint with DPoS, in-core AMM with order book, and ETH / BSC bridges.
+
+- Lead developer of **[`minter-go-node`](https://github.com/MinterTeam/minter-go-node)**, the official Go implementation. Owned the Tendermint integration, IAVL+ state tree, transaction execution layer, and Minter 2's in-core **AMM with Order Book (AMMOB)**.
+- Owned **[`node-grpc-gateway`](https://github.com/MinterTeam/node-grpc-gateway)** — single Protobuf → gRPC + REST + WebSocket + OpenAPI / Swagger — and **[`minter-go-sdk v2`](https://github.com/MinterTeam/minter-go-sdk)**.
+
+**Upstream fixes shipped with `@klim0v` attribution:**
+
+- [`cosmos/iavl` #324](https://github.com/cosmos/iavl/pull/324) — orphan-node cleanup in `DeleteVersions` + new `DeleteVersionsRange` API. Released in [IAVL v0.14.3](https://github.com/cosmos/iavl/blob/v0.14.3/CHANGELOG.md).
+- [`tendermint/tm-db` #134](https://github.com/tendermint/tm-db/pull/134) — bounded GoLevelDB iterator range, measurable iteration speedup during IAVL pruning. Released in [tm-db v0.6.3](https://github.com/tendermint/tm-db/blob/v0.6.3/CHANGELOG.md).
+- [`btcsuite/btcutil` #161](https://github.com/btcsuite/btcutil/pull/161) — BIP-32 leading-zero `ser256(p)` derivation fix + regression test.
 
 ---
 
-### 📇 How to reach me:
+### Additional experience (2016 – 2019)
 
-- [Telegram](https://t.me/klmff)
-- [E-mail](mailto:crazyuser704@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/klim0v/)
-- [X.com](https://x.com/0xGoDev)
+**Dr.Cash** — Go microservices for an international CPA network (Go, gRPC, NATS, ClickHouse, Kubernetes).
+**Wormsoft** — Go / PHP backend, REST APIs, GitLab-webhook deploy service.
+**Vitbiomed** — Bitrix → Laravel migration.
+**Darvin Studio / Be on TOP** — Symfony CMS, blogs and online stores.
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=klim0v&show_icons=true&theme=dark&count_private=true)
+## Recognition
 
+- **TON Smart Challenge #2 — 1st place out of 181 participants** (FunC, five gas-optimised smart-contract tasks).
+- TON Smart Challenge #5 and TON Tact Challenge — participant.
+
+---
+
+## Speaking, Writing & Teaching
+
+- **[GolangConf 2020](https://golangconf.ru/2020/abstracts/6761)** — *"Tools for Generating API Code and Documentation"*: comparison of `swagger-codegen`, `go-swagger`, `swaggo/swag`, and `grpc-gateway`. [Video](https://www.youtube.com/watch?v=Q9x1FVPDGu4).
+- **Netology — Golang Course Teacher** (Oct 2020 – Feb 2021). [Sample lesson](https://youtu.be/wTbH3FpxI0o).
+- **Minter Demo Day 2019** — Minter architecture overview. [Video](https://youtu.be/7bZREmkcpiY).
+- **Articles**: [Habr profile](https://habr.com/ru/users/klim0v/) · [Medium](https://medium.com/@klim0v) · English version on [Level Up Coding](https://levelup.gitconnected.com/tools-for-implementing-a-golang-api-server-with-auto-generated-code-and-documentation-694262e3866c).
+
+---
+
+## Education
+
+**Vladimir State University** — B.Sc. Applied Mathematics & Computer Science, 2013 – 2017.
+
+---
+
+## Languages
+
+Russian (native) · English (professional working) · Portuguese (basic).
