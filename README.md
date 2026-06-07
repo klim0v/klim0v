@@ -20,7 +20,7 @@ Go backend and protocol engineer — **8+ years** in service-oriented architectu
 
 ## Core Skills
 
-**Languages.** Go (primary, 7+ yrs), FunC, Tact, Solidity (read), SQL.
+**Languages.** Go (primary, 7+ yrs), FunC, Tact, SQL.
 
 **Ethereum.** go-ethereum (extensive forking), Prysm consensus client, MEV-Boost, builder / relay APIs, Engine API, Intel TDX / SGX, attested TLS, Automata Linux verifiable execution.
 
