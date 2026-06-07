@@ -114,8 +114,7 @@ L1 DeFi blockchain on Tendermint with DPoS, in-core AMM with order book, and ETH
 - **[GolangConf 2020](https://golangconf.ru/2020/abstracts/6761)** — *"Tools for Generating API Code and Documentation"*: comparison of `swagger-codegen`, `go-swagger`, `swaggo/swag`, and `grpc-gateway`. [Video](https://www.youtube.com/watch?v=Q9x1FVPDGu4).
 - **Netology — Golang Course Teacher** (Oct 2020 – Feb 2021). [Sample lesson](https://youtu.be/wTbH3FpxI0o).
 - **Minter Demo Day 2019** — Minter architecture overview. [Video](https://youtu.be/7bZREmkcpiY).
-- **Articles**: [Habr profile](https://habr.com/ru/users/klim0v/) · [Medium](https://medium.com/@klim0v) · English version on [Level Up Coding](https://levelup.gitconnected.com/tools-for-implementing-a-golang-api-server-with-auto-generated-code-and-documentation-694262e3866c).
-
+- **Articles**: [Medium](https://medium.com/@klim0v) · [Habr](https://habr.com/ru/users/klim0v/articles/)
 ---
 
 ## Education
